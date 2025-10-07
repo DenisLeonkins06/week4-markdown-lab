@@ -20,4 +20,6 @@
 
 2. Second step
 
+3. Third step
+
 [Visit GitHub](https://github.com)
